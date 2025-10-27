@@ -177,4 +177,4 @@ This is an academic project for educational purposes.
 
 ## 👥 Author
 
-Created as a demonstration of NLP concepts and techniques for academic coursework.
+Devansh Gupta 
